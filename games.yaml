@@ -6,17 +6,17 @@ games:
   id:155615604:
     name: Prison Life
     id: 155615604
-    script_url: https://github
+    script_url: https://raw.githubusercontent.com/GuniDev/SugmaHub/main/PrisonLife.lua
   id:7875203259:
     name: DOJ:RP | Sandy Shores
     id: 7875203259
-    script_url: https://github
+    script_url: https://raw.githubusercontent.com/GuniDev/SugmaHub/main/SandyRP.lua
   id:662417684:
     name: LUCKY BLOCKS Battlegrounds
     id: 662417684
-    script_url: https://github
+    script_url: https://raw.githubusercontent.com/GuniDev/SugmaHub/main/LuckyBlock.lua
   id:3652625463:
     name: Lifting Simulator
     id: 3652625463
-    script_url: https://github
+    script_url: https://raw.githubusercontent.com/GuniDev/SugmaHub/main/LiftSim.lua
   
