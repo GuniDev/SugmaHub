@@ -23,3 +23,7 @@ games:
     name: Prison Life 3
     id: 6114360009
     script_url: https://raw.githubusercontent.com/GuniDev/SugmaHub/main/PrisonLife3.lua
+  id:1025000417:
+    name: Ninja Simulator
+    id: 1025000417
+    script_url: #enter script
