@@ -8,3 +8,4 @@ Sugma Hub is a Roblox script hub for many games.
 - [DOJ:RP | Sandy Shores](https://www.roblox.com/games/7875203259/)
 - [LUCKY BLOCKS Battlegrounds](https://www.roblox.com/games/662417684/)
 - [Prison Life 3](https://www.roblox.com/games/6114360009/)
+- [Ninja Simulator](https://www.roblox.com/games/1025000417/)
